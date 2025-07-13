@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+  color: white; /* Opcional: deixa o texto visível */
+  margin: 0;    /* Remove margens padrão do navegador */
+  padding: 0;
+}
+
